@@ -1,0 +1,13 @@
+name: "dinas-website"
+output_dir: "."
+navbar:
+  title: "Dina Machuve"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Publications"
+      href: pubs.html
+    - text: "Research"
+      href: research.html
+    - text: "Talks"
+      href: talks.html

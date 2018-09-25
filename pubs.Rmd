@@ -1,0 +1,38 @@
+---
+title: "Publications"
+---
+Google Scholar: [g3PLT_oAAAAJ]( https://scholar.google.com/citations?user=g3PLT_oAAAAJ&hl=en){target="_blank"}
+
+ORCID: [0000-0002-8711-5948]( https://orcid.org/0000-0002-8711-5948){target="_blank"}
+
+### JOURNAL PAPERS
+
+1. Wambura, W. M., Machuve, D., Nyaknen, P. (2017). Development of Dis-
+charge Letter Module onto a Hospital Information System. *Journal of Health
+Informatics in Developing Countries*, 11(2).
+2. Monko, G. J., Kalegele, K., & Machuve, D. (2017). Web Services for Transform-
+ing e- Cultural Heritage Management in Tanzania. *I.J. Information Technology
+and Computer Science*, 12, 52-63
+3. Betuel, S., Machuve, D., & Kalegele, K. (2017). An Experiment to Analyze
+Performance of Virtual Private Network Approach to Information Exchange
+between Health Facilities. *Applied Medical Informatics*, 39(1-2), 21-29.
+4. Khalfan Ramadhani, Dina Machuve, Kennedy Jomanga. Identification and
+analysis of factors in management of banana fungal diseases: Case of Sigatoka
+(Mycosphaerella fi- jiensis. Mulder) and Fusarium (Fusarium oxysporum f. sp.
+cubense (Foc) diseases in Arumeru District. *J. Bio. Env. Sci.* 11(1), 69-75,
+July 2017
+
+5. D. Machuve, E. Mjema, L. Trojer, I. Zlotnikova, Conceptual Model of Informa-
+tion Logistics in Value Chain Analysis of Food Processing SMEs in Tanzania,
+*Journal of Mathematical and Computational Science*, Vol 5, No 4 (2015), 517-
+537
+
+### CONFERENCE PAPERS
+1. D. Machuve and E. Mjema, Performance Evaluation of Value Chain of Small
+and Medium Enterprises in Tanzania Using Information Logistics, *4th Interna-
+tional Conference for Mechanical and Industrial Engineering*, 01-02 Sept. 2016,
+Arusha- Tanzania
+2. Machuve, Dina Z.; Zlotnikova, Irina; Nyambo, Devotha, Monitoring and eval-
+uation of the e- readers project in rural Tanzania, *Science, Computing and
+Telecommunications (PACT), 2014 Pan African Conference*, pp.62-67, 14-18
+July 2014 doi: 10.1109/SCAT.2014.7055138
