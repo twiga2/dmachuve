@@ -11,3 +11,7 @@ navbar:
       href: research.html
     - text: "Talks"
       href: talks.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css
