@@ -1,3 +1,5 @@
 ---
 title: "Talks"
 ---
+### [Introduction to Data Science](https://bit.ly/2EMa6lM){target="_blank"}
+at Data Science Africa, Nyeri, Kenya (June, 2018)
