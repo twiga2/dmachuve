@@ -1,5 +1,11 @@
 ---
 title: "Talks"
 ---
+### [Introduction to Data Science](https://bit.ly/2yCTvLA){target="_blank"}
+at Data Science Africa, Abuja, Nigeria (November, 2018)
+
+### [Introduction to Linux](https://bit.ly/2O66gn5){target="_blank"}
+at School on Atomistic Simulation of Biomolecules and Material Science Africa, NM-AIST Arusha, Tanzania (September, 2018)
+
 ### [Introduction to Data Science](https://bit.ly/2EMa6lM){target="_blank"}
 at Data Science Africa, Nyeri, Kenya (June, 2018)
