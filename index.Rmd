@@ -2,7 +2,7 @@
 title: "Dina Machuve"
 ---
 
-Dina Machuve is a Lecturer and Researcher at the Nelson Mandela African Institution of Science and Technology [(NM-AIST)](https://www.nm-aist.ac.tz){target="_blank"} in Arusha, Tanzania. She graduated with a PhD in Information and Communication Science and Engineering from NM-AIST in 2016, and with a MS in Electrical Engineering from Tennessee Technological University [(TTU)](https://tntech.edu){target="_blank"}, USA in 2008 and BSc Electrical Engingeering degree from University of Dar es Salaam [(UDSM)](https://www.udsm.ac.tz){target="_blank"} in 2001. 
+Dina Machuve is a Lecturer and Researcher at the Nelson Mandela African Institution of Science and Technology [(NM-AIST)](https://www.nm-aist.ac.tz){target="_blank"} in Arusha, Tanzania. She graduated with a PhD in Information and Communication Science and Engineering from NM-AIST in 2016, and with a MS in Electrical Engineering from Tennessee Technological University [(TTU)](https://tntech.edu){target="_blank"}, USA in 2008 and BSc Electrical Engineering degree from University of Dar es Salaam [(UDSM)](https://www.udsm.ac.tz){target="_blank"} in 2001. 
 
 She co-organizes the Data Science Africa [(DSA)](https://datascienceafrica.org){target="_blank"}, an organization that runs an annual data science and machine learning summer school and workshop in Africa. Her research interests are data science, bioinformatics, agriculture informatics on food value chains and STEM education in schools.
 
