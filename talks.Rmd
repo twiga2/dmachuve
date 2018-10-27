@@ -7,6 +7,9 @@ at Data Science Africa, Abuja, Nigeria (November, 2018)
 ### [Introduction to Data Science-Tutorial](https://bit.ly/2Skq3Ci){target="_blank"}
 at Data Science Africa, Abuja, Nigeria (November, 2018)
 
+### [Introduction to Bioinformatics - a Data Scientist Perspective](https://bit.ly/2O6wR37){target="_blank"}
+at AI Saturdays, Lagos, Nigeria (September, 2018)
+
 ### [Introduction to Linux](https://bit.ly/2O66gn5){target="_blank"}
 at School on Atomistic Simulation of Biomolecules and Material Science Africa, NM-AIST Arusha, Tanzania (September, 2018)
 
