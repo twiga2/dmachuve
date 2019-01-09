@@ -97,6 +97,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -111,7 +114,6 @@ body {
   padding-top: 66px;
   margin-top: -66px;
 }
-
 .section h2 {
   padding-top: 66px;
   margin-top: -66px;
@@ -131,6 +133,43 @@ body {
 .section h6 {
   padding-top: 66px;
   margin-top: -66px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -152,18 +191,77 @@ $(document).ready(function () {
 });
 </script>
 
-
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -194,6 +292,9 @@ $(document).ready(function () {
   <a href="research.html">Research</a>
 </li>
 <li>
+  <a href="students.html">Students</a>
+</li>
+<li>
   <a href="teaching.html">Teaching</a>
 </li>
 <li>
@@ -213,33 +314,7 @@ $(document).ready(function () {
 </div>
 
 
-<div id="students" class="section level2">
-<h2>STUDENTS</h2>
-<div id="masters" class="section level3">
-<h3>Masters</h3>
-<ol style="list-style-type: decimal">
-<li>Cesilia Mambile, “<em>A Web Based Forum for Reliable Market Linkage between Poultry Farmers and Potential Buyers in Tanzania</em>”</li>
-<li>Geofrey Rweikiza, “<em>Reducing Fragmentation in sharing of Information in E-medical Recording Systems: Case of Open MRS and Care2X</em>”</li>
-</ol>
-</div>
-<div id="phd" class="section level3">
-<h3>PhD</h3>
-<ol style="list-style-type: decimal">
-<li>Mathias Ombeni, “<em>A Framework for Monitoring Quality of Fertilizer in Supply Chain in Tanzania</em>”</li>
-<li>Neema Mduma, “<em>Data-driven Approach for Predicting Student Dropout in Secondary Schools</em>”</li>
-<li>Sarah Nyanjara, “<em>Integrated Quality Measurement Framework for Maternal, Neonatal and Child Health Services in Tanzania</em>”</li>
-</ol>
-</div>
-<div id="masters-alumni" class="section level3">
-<h3>Masters Alumni</h3>
-<ol style="list-style-type: decimal">
-<li>Gloriana Monko, <strong>Development of an E-Cultural Heritage Portal for Improving Acquisition and Accessibility of Cultural Heritage Infromation: A Case study of Tanzania</strong>, 2017.</li>
-<li>Khalfan Ramadhani, <strong>An Early Warning System for Enhancing Management of Banana Fungal Diseases: Case of Arumeru District, Arusha Region</strong>, 2017.</li>
-<li>Siphael Betuel, <strong>Development of a VPN-based Approach for Improving Access to and Sharing of Patient’s Records across Health Facilities in Tanzania</strong>, 2017.</li>
-<li>Wambura Wambura, <strong>Development of Discharge Letter Module onto Care2X Hospital Information System</strong>, 2017.</li>
-</ol>
-</div>
-</div>
+
 
 
 

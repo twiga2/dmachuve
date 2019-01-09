@@ -1,0 +1,26 @@
+---
+title: "Students"
+---
+
+### Masters
+1. Cesilia Mambile, "*A Web Based Forum for Reliable Market Linkage between Poultry Farmers and Potential Buyers in Tanzania*"
+2. Geofrey Rweikiza, "*Reducing Fragmentation in sharing of Information in E-medical Recording Systems: Case of Open MRS and Care2X*"
+3. Victor Mero, "*Sanger Sequence Automatic Analysis Tool Development*"
+4. Lilian Mkonyi, "*A Model for Early Identification of Tomato Plant Damages caused by Tuta Absoluta*"
+5. Sophia Sanga, "*Development of an Early Detection Tool for Banana Diseases*"
+6. Asiimwe Patrick, "*A Web-based Inventory, Mapping and Digitization of Ornamental Plants and Flowers*" 
+7. Angelica Kayanda, "*Data Visualization Tool for Student Dropouts in Tanzania*"
+
+### PhD
+1. Mathias Ombeni, "*A Framework for Monitoring Quality of Fertilizer in Supply Chain in Tanzania*"
+2. Neema Mduma, "*Data-driven Approach for Predicting Student Dropout in Secondary Schools*"
+3. Sarah Nyanjara, "*Integrated Quality Measurement Framework for Maternal, Neonatal and Child Health Services in Tanzania*"
+
+### Masters Alumni
+
+1. Gloriana Monko, **Development of an E-Cultural Heritage Portal for Improving Acquisition and Accessibility of Cultural Heritage Infromation: A Case study of Tanzania**, 2017.
+2. Khalfan Ramadhani, **An Early Warning System for Enhancing Management of 
+Banana Fungal Diseases: Case of Arumeru District, Arusha Region**, 2017.
+3. Siphael Betuel, **Development of a VPN-based Approach for Improving
+Access to and Sharing of Patient's Records across Health Facilities in Tanzania**, 2017.
+4. Wambura Wambura, **Development of Discharge Letter Module onto Care2X Hospital Information System**, 2017.
