@@ -15,6 +15,8 @@ title: "Students"
 1. Mathias Ombeni, "*A Framework for Monitoring Quality of Fertilizer in Supply Chain in Tanzania*"
 2. Neema Mduma, "*Data-driven Approach for Predicting Student Dropout in Secondary Schools*"
 3. Sarah Nyanjara, "*Integrated Quality Measurement Framework for Maternal, Neonatal and Child Health Services in Tanzania*"
+4. Sadiki Kusyama, "*Development of Information Dissemination Framework for
+Fisheries Stakeholders in Tanzania*"
 
 ### Masters Alumni
 
