@@ -7,22 +7,28 @@ ORCID: [0000-0002-8711-5948]( https://orcid.org/0000-0002-8711-5948){target="_bl
 
 ### JOURNAL PAPERS
 
-1. Wambura, W. M., Machuve, D., Nyaknen, P. (2017). Development of Dis-
-charge Letter Module onto a Hospital Information System. *Journal of Health
+1. Mambile, C., Machuve D. and Moebs, S. User experience of a web-based
+platform for poultry market linkages in Tanzania. *International Journal of
+Advanced Technology and Engineering Exploration*, 5(49):495-503, 2018.
+
+2. Wambura, W. M., Machuve, D., Nyaknen, P. (2017). Development of Discharge Letter Module onto a Hospital Information System. *Journal of Health
 Informatics in Developing Countries*, 11(2).
-2. Monko, G. J., Kalegele, K., & Machuve, D. (2017). Web Services for Transform-
+
+3. Monko, G. J., Kalegele, K., & Machuve, D. (2017). Web Services for Transform-
 ing e- Cultural Heritage Management in Tanzania. *I.J. Information Technology
 and Computer Science*, 12, 52-63
-3. Betuel, S., Machuve, D., & Kalegele, K. (2017). An Experiment to Analyze
+
+4. Betuel, S., Machuve, D., & Kalegele, K. (2017). An Experiment to Analyze
 Performance of Virtual Private Network Approach to Information Exchange
 between Health Facilities. *Applied Medical Informatics*, 39(1-2), 21-29.
-4. Khalfan Ramadhani, Dina Machuve, Kennedy Jomanga. Identification and
+
+5. Khalfan Ramadhani, Dina Machuve, Kennedy Jomanga. Identification and
 analysis of factors in management of banana fungal diseases: Case of Sigatoka
 (Mycosphaerella fi- jiensis. Mulder) and Fusarium (Fusarium oxysporum f. sp.
 cubense (Foc) diseases in Arumeru District. *J. Bio. Env. Sci.* 11(1), 69-75,
 July 2017
 
-5. D. Machuve, E. Mjema, L. Trojer, I. Zlotnikova, Conceptual Model of Informa-
+6. D. Machuve, E. Mjema, L. Trojer, I. Zlotnikova, Conceptual Model of Informa-
 tion Logistics in Value Chain Analysis of Food Processing SMEs in Tanzania,
 *Journal of Mathematical and Computational Science*, Vol 5, No 4 (2015), 517-
 537
