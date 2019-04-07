@@ -6,31 +6,29 @@ Google Scholar: [g3PLT_oAAAAJ]( https://scholar.google.com/citations?user=g3PLT_
 ORCID: [0000-0002-8711-5948]( https://orcid.org/0000-0002-8711-5948){target="_blank"}
 
 ### JOURNAL PAPERS
+1. Mambile, C., Machuve D. and Moebs, S. (2019) Web based Approach to Overcome the Market Information Gap between Poultry Farmers and Potential Buyers in Tanzania. *Journal of Information Systems Engineering & Management*, 4(1),em0085. <https://doi.org/10.29333/jisem/5740>.
 
-1. Mambile, C., Machuve D. and Moebs, S. User experience of a web-based
+2. Mambile, C., Machuve D. and Moebs, S. (2018) User experience of a web-based
 platform for poultry market linkages in Tanzania. *International Journal of
-Advanced Technology and Engineering Exploration*, 5(49):495-503, 2018.
+Advanced Technology and Engineering Exploration*, 5(49):495-503.
 
-2. Wambura, W. M., Machuve, D., Nyaknen, P. (2017). Development of Discharge Letter Module onto a Hospital Information System. *Journal of Health
+3. Wambura, W. M., Machuve, D., Nyaknen, P. (2017). Development of Discharge Letter Module onto a Hospital Information System. *Journal of Health
 Informatics in Developing Countries*, 11(2).
 
-3. Monko, G. J., Kalegele, K., & Machuve, D. (2017). Web Services for Transform-
+4. Monko, G. J., Kalegele, K., & Machuve, D. (2017). Web Services for Transform-
 ing e- Cultural Heritage Management in Tanzania. *I.J. Information Technology
-and Computer Science*, 12, 52-63
+and Computer Science*, 12, 52-63.
 
-4. Betuel, S., Machuve, D., & Kalegele, K. (2017). An Experiment to Analyze
+5. Betuel, S., Machuve, D., & Kalegele, K. (2017). An Experiment to Analyze
 Performance of Virtual Private Network Approach to Information Exchange
 between Health Facilities. *Applied Medical Informatics*, 39(1-2), 21-29.
 
-5. Khalfan Ramadhani, Dina Machuve, Kennedy Jomanga. Identification and
+6. Ramadhani, K., Machuve, D. & Jomanga, K. (2017), Identification and
 analysis of factors in management of banana fungal diseases: Case of Sigatoka
 (Mycosphaerella fi- jiensis. Mulder) and Fusarium (Fusarium oxysporum f. sp.
-cubense (Foc) diseases in Arumeru District. *J. Bio. Env. Sci.* 11(1), 69-75,
-July 2017
+cubense (Foc) diseases in Arumeru District. *J. Bio. Env. Sci.* 11(1), 69-75.
 
-6. D. Machuve, E. Mjema, L. Trojer, I. Zlotnikova, Conceptual Model of Informa-
-tion Logistics in Value Chain Analysis of Food Processing SMEs in Tanzania,
-*Journal of Mathematical and Computational Science*, Vol 5, No 4 (2015), 517-
+7. D. Machuve, E. Mjema, L. Trojer, I. Zlotnikova (2015), Conceptual Model of Informa-tion Logistics in Value Chain Analysis of Food Processing SMEs in Tanzania, *Journal of Mathematical and Computational Science*, Vol 5, No 4, 517-
 537
 
 ### CONFERENCE PAPERS

@@ -1,6 +1,6 @@
 #Set our working directory. 
 
-setwd("~/MEGAsync/Resume/dmachuve")
+setwd("~/Dropbox/Resume/dmachuve")
 
 #render the site. 
 rmarkdown::render_site()

@@ -1,7 +1,7 @@
 name: "dinas-website"
 output_dir: "."
 navbar:
-  title: "Dina Machuve"
+  title: ""
   right:
     - text: "Home"
       href: index.html
