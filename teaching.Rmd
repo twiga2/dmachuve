@@ -1,3 +1,18 @@
 ---
 title: "Teaching"
 ---
+
+### MCSE 6309 and EMoS 6309: Machine Learning
+Date: June, 2019
+
+#### Course Overview
+* [Course Outline](https://github.com/twiga2/ML_Jun19/blob/master/Overview/CourseOutline.pdf){target="_blank"}
+* [Learning Resources](https://github.com/twiga2/ML_Jun19/blob/master/Overview/ML_CourseReferences.pdf){target="_blank"}
+
+#### Lecture Notes
+1. [Introduction](https://github.com/twiga2/ML_Jun19/blob/master/1_Introduction.ipynb){target="_blank"}
+2. Linear Algebra
+
+#### Tutorials
+1. [Introduction to Python](https://bit.ly/2MPwEpT){target="_blank"}
+    * [Exercise 1](https://bit.ly/2KldPsz){target="_blank"}

@@ -21,8 +21,6 @@ Fisheries Stakeholders in Tanzania*"
 ### Masters Alumni
 
 1. Gloriana Monko, **Development of an E-Cultural Heritage Portal for Improving Acquisition and Accessibility of Cultural Heritage Infromation: A Case study of Tanzania**, 2017.
-2. Khalfan Ramadhani, **An Early Warning System for Enhancing Management of 
-Banana Fungal Diseases: Case of Arumeru District, Arusha Region**, 2017.
-3. Siphael Betuel, **Development of a VPN-based Approach for Improving
-Access to and Sharing of Patient's Records across Health Facilities in Tanzania**, 2017.
+2. Khalfan Ramadhani, **An Early Warning System for Enhancing Management of Banana Fungal Diseases: Case of Arumeru District, Arusha Region**, 2017.
+3. Siphael Betuel, **Development of a VPN-based Approach for Improving Access to and Sharing of Patient's Records across Health Facilities in Tanzania**, 2017.
 4. Wambura Wambura, **Development of Discharge Letter Module onto Care2X Hospital Information System**, 2017.
