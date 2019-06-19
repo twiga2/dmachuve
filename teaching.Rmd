@@ -16,3 +16,4 @@ Date: June, 2019
 #### Tutorials
 1. [Introduction to Python](https://bit.ly/2MPwEpT){target="_blank"}
     * [Exercise 1](https://bit.ly/2KldPsz){target="_blank"}
+    * [Graded Assignment 1](https://bit.ly/2IrvEEd){target="_blank"}
