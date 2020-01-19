@@ -3,8 +3,9 @@ title: "Dina Machuve"
 ---
 <div class = "row">
 <div class = "col-md-7">
-<br><br>Dina Machuve is a Lecturer and Researcher at the Nelson Mandela African Institution of Science and Technology [(NM-AIST)](https://www.nm-aist.ac.tz){target="_blank"} in Arusha, Tanzania. She holds a PhD in Information and Communication Science and Engineering from NM-AIST in 2016, and a MS in Electrical Engineering from Tennessee Technological University [(TTU)](https://tntech.edu){target="_blank"}, USA in 2008 and BSc Electrical Engineering degree from University of Dar es Salaam [(UDSM)](https://www.udsm.ac.tz){target="_blank"} in 2001. 
-<br><br>She co-organizes the Data Science Africa [(DSA)](https://datascienceafrica.org){target="_blank"}, an organization that runs an annual data science and machine learning summer school and workshop in Africa. She is a member of a research group on Mechanism Design for Social Good [(MDSG)](http://md4sg.com/){target="_blank"}. Her research interests are data science, bioinformatics, agriculture informatics on food value chains and STEM education in schools.                        
+<br><br>Dina Machuve is a Lecturer and Researcher at the Nelson Mandela African Institution of Science and Technology [(NM-AIST)](https://www.nm-aist.ac.tz){target="_blank"} in Arusha, Tanzania. 
+Her research focuses on developing data-driven solutions in Agriculture. For her PhD dissertation she investigated the information logistics of small and medium size food processors. Currently, she is looking at developing a poultry diseases diagnostics tool using computer vision and bioinformatics methods for small and medium scale poultry farmers in Tanzania. 
+<br><br>She is an Early Career Fellow of the Organization for Women in Science for the Developing World [(OWSD)](https://owsd.net). She serves in the organizing committee of Data Science Africa [(DSA)](https://datascienceafrica.org), an organization that runs an annual data science and machine learning summer school and workshop in Africa.  She is also a member of a research group on Mechanism Design for Social Good [(MD4SG)](https://md4sg.org). She completed her PhD in Information and Communication Science and Engineering from NM-AIST in 2016. She also has an MS in Electrical Engineering and BSc in Electrical Engineering. 
 </div>
 <div class = "col-md-5">
 ![](imgs/me.jpg){width=70%}
@@ -13,12 +14,13 @@ title: "Dina Machuve"
 
 
 ### News
-1. Data Science Africa 2019 - Accra  [(DSA2019)](http://www.datascienceafrica.org/dsa2019accra/){target="_blank"}, Ghana 21st-25th October, 2019
-2. 3rd Workshop on Mechanism Design for Social Good ([MD4SG '19](http://md4sg.com/workshop/EC19/index.html))
-3. Listen about Machine Learning on [Talking Machines](https://www.thetalkingmachines.com/){target="_blank"} Podcast
+1. Data Science & AI Summit for Health [(DASH)](https://dashinafrica.org) in Africa, March 10-11th, Kigali, Rwanda
+2. ICLR 2020 Workshop on Computer Vision for Agriculture [(CV4A)](https://www.cv4gc.org/cv4a2020/), April 26th, 2020, Addis Ababa, Ethiopia
+3. Data Science Africa 2020 - Kampala  [(DSA2020)](http://www.datascienceafrica.org/dsa2020kampala/){target="_blank"}, Uganda 22nd-26th June, 2020
+4. Listen about Machine Learning on [Talking Machines](https://www.thetalkingmachines.com/){target="_blank"} Podcast
 
 ### Past Events 
-1. Data Science Africa 2019 - Addis Ababa [(DSA2019)](http://www.datascienceafrica.org/dsa2019addis/){target="_blank"}, Ethiopia 03rd-07th June, 2019
-2. Data Science Africa 2018 - Abuja [(DSA2018)](http://www.datascienceafrica.org/dsa2018abuja/){target="_blank"}, Nigeria 12-14th November, 2018
-3. Deep Learning IndabaX, Tanzania, CIVE University of Dodoma, 10-12th April, 2019
-4. Black in AI Workshop [(BAI)](https://blackinai.github.io/workshop/2018/cfp/){target="_blank"}, 2018, Montreal, Canada, 07th December, 2018
+1. Data Science Africa 2019 - Accra  [(DSA2019)](http://www.datascienceafrica.org/dsa2019accra/){target="_blank"}, Ghana 21st-25th October, 2019
+2. 3rd Workshop on Mechanism Design for Social Good ([MD4SG '19](http://md4sg.com/workshop/EC19/index.html))
+
+
