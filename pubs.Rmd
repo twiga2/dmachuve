@@ -32,11 +32,14 @@ cubense (Foc) diseases in Arumeru District. *J. Bio. Env. Sci.* 11(1), 69-75.
 537
 
 ### CONFERENCE PAPERS
-1. D. Machuve and E. Mjema, Performance Evaluation of Value Chain of Small
+1. Sanga, S., Mero, V., Machuve, D., & Mwanganda, D. (2020). Mobile-Based Deep Learning Models for Banana Diseases Detection.  *ICLR 2020 Workshop on Computer Vision for Agriculture (CV4A)*, arXiv preprint arXiv:2004.03718.
+
+2. D. Machuve and E. Mjema, Performance Evaluation of Value Chain of Small
 and Medium Enterprises in Tanzania Using Information Logistics, *4th Interna-
 tional Conference for Mechanical and Industrial Engineering*, 01-02 Sept. 2016,
 Arusha- Tanzania
-2. Machuve, Dina Z.; Zlotnikova, Irina; Nyambo, Devotha, Monitoring and eval-
+
+3. Machuve, Dina Z.; Zlotnikova, Irina; Nyambo, Devotha, Monitoring and eval-
 uation of the e- readers project in rural Tanzania, *Science, Computing and
 Telecommunications (PACT), 2014 Pan African Conference*, pp.62-67, 14-18
 July 2014 doi: 10.1109/SCAT.2014.7055138
