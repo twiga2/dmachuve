@@ -1,34 +1,48 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
 <title>Students</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -41,32 +55,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -78,13 +67,8 @@ h6 {
   margin-left: auto;
   margin-right: auto;
 }
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
-}
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -98,40 +82,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 61px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 66px;
-  margin-top: -66px;
-}
-.section h2 {
-  padding-top: 66px;
-  margin-top: -66px;
-}
-.section h3 {
-  padding-top: 66px;
-  margin-top: -66px;
-}
-.section h4 {
-  padding-top: 66px;
-  margin-top: -66px;
-}
-.section h5 {
-  padding-top: 66px;
-  margin-top: -66px;
-}
-.section h6 {
-  padding-top: 66px;
-  margin-top: -66px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -159,7 +116,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -171,7 +128,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -182,10 +139,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -197,7 +167,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -233,6 +202,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -244,18 +214,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -310,7 +268,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -322,23 +280,18 @@ $(document).ready(function () {
 <div id="masters" class="section level3">
 <h3>Masters</h3>
 <ol style="list-style-type: decimal">
-<li>Victor Mero, “<em>Sanger Sequence Automatic Analysis Tool Development</em>”</li>
-<li>Lilian Mkonyi, “<em>A Model for Early Identification of Tomato Plant Damages caused by Tuta Absoluta</em>”</li>
-<li>Sophia Sanga, “<em>Development of an Early Detection Tool for Banana Diseases</em>”</li>
-<li>Asiimwe Patrick, “<em>A Web-based Inventory, Mapping and Digitization of Ornamental Plants and Flowers</em>”</li>
-<li>Angelica Kayanda, “<em>Data Visualization Tool for Student Dropouts in Tanzania</em>”</li>
-<li>Hope Mbelwa, “<em>Image Based Poultry Disease Detection using Deep Convolutional Neural Network</em>”</li>
-<li>Beston Lufyagila, “<em>Internet of Things Based System for Environmental Conditions Monitoring in Poultry House</em>”</li>
 <li>Evelyn Mshana, “<em>Mapping Poultry Businesses and Market Linkage in Tanzania</em>”</li>
 <li>Martha Shapa, “<em>Mobile-Based Decision Support System for Poultry Farmers: A Case of Tanzania</em>”</li>
 <li>Loyani K. Loyani, “<em>A Quantification Model Against Tuta Absoluta Effects on Tomato Plants: A Deep Learning Approach</em>”</li>
+<li>Ivan Koojo,“<em>A Passenger Security Systed For Mass Transit Electric Buses: A Case Study of the Kayoola EVS Bus</em>”</li>
+<li>Beatus Mbunda, “<em>Warehouse Management System Enhancement For ATOZ Textiles Limited</em>”</li>
+<li>Hilary Rambo, “<em>Mobile Application for Gate Pass Management System Enhancement</em>”</li>
 </ol>
 </div>
 <div id="phd" class="section level3">
 <h3>PhD</h3>
 <ol style="list-style-type: decimal">
 <li>Mathias Ombeni, “<em>A Framework for Monitoring Quality of Fertilizer in Supply Chain in Tanzania</em>”</li>
-<li>Neema Mduma, “<em>Data-driven Approach for Predicting Student Dropout in Secondary Schools</em>”</li>
 <li>Sarah Nyanjara, “<em>Integrated Quality Measurement Framework for Maternal, Neonatal and Child Health Services in Tanzania</em>”</li>
 <li>Sadiki Kusyama, “<em>Development of Information Dissemination Framework for Fisheries Stakeholders in Tanzania</em>”</li>
 </ol>
@@ -346,12 +299,25 @@ $(document).ready(function () {
 <div id="masters-alumni" class="section level3">
 <h3>Masters Alumni</h3>
 <ol style="list-style-type: decimal">
-<li>Cesilia Mambile, <strong>A Web Based Forum for Reliable Market Linkage between Poultry Farmers and Potential Buyers in Tanzania</strong>, 2019</li>
-<li>Geofrey Rweikiza, <strong>Reducing Fragmentation in sharing of Information in E-medical Recording Systems: Case of Open MRS and Care2X</strong>, 2019</li>
-<li>Gloriana Monko, <strong>Development of an E-Cultural Heritage Portal for Improving Acquisition and Accessibility of Cultural Heritage Infromation: A Case study of Tanzania</strong>, 2017.</li>
-<li>Khalfan Ramadhani, <strong>An Early Warning System for Enhancing Management of Banana Fungal Diseases: Case of Arumeru District, Arusha Region</strong>, 2017.</li>
-<li>Siphael Betuel, <strong>Development of a VPN-based Approach for Improving Access to and Sharing of Patient’s Records across Health Facilities in Tanzania</strong>, 2017.</li>
-<li>Wambura Wambura, <strong>Development of Discharge Letter Module onto Care2X Hospital Information System</strong>, 2017.</li>
+<li>Victor Mero, <em>Sanger Sequence Automatic Analysis Tool Development</em>, 2021</li>
+<li>Lilian Mkonyi, <em>A Model for Early Identification of Tomato Plant Damages caused by Tuta Absoluta</em>, 2021</li>
+<li>Sophia Sanga, <em>Development of an Early Detection Tool for Banana Diseases</em>, 2021</li>
+<li>Hope Mbelwa, <em>Image Based Poultry Disease Detection using Deep Convolutional Neural Network</em>, 2021</li>
+<li>Beston Lufyagila, <em>Internet of Things Based System for Environmental Conditions Monitoring in Poultry House</em>, 2021</li>
+<li>Asiimwe Patrick, <em>A Web-based Inventory, Mapping and Digitization of Ornamental Plants and Flowers</em>, 2020</li>
+<li>Angelica Kayanda, <em>Data Visualization Tool for Student Dropouts in Tanzania</em>, 2020</li>
+<li>Cesilia Mambile, *A Web Based Forum for Reliable Market Linkage between Poultry Farmers and Potential Buyers in Tanzania**, 2019</li>
+<li>Geofrey Rweikiza, <em>Reducing Fragmentation in sharing of Information in E-medical Recording Systems: Case of Open MRS and Care2X</em>, 2019</li>
+<li>Gloriana Monko, <em>Development of an E-Cultural Heritage Portal for Improving Acquisition and Accessibility of Cultural Heritage Information: A Case study of Tanzania</em>, 2017.</li>
+<li>Khalfan Ramadhani, <em>An Early Warning System for Enhancing Management of Banana Fungal Diseases: Case of Arumeru District, Arusha Region</em>, 2017.</li>
+<li>Siphael Betuel, <em>Development of a VPN-based Approach for Improving Access to and Sharing of Patient’s Records across Health Facilities in Tanzania</em>, 2017.</li>
+<li>Wambura Wambura, <em>Development of Discharge Letter Module onto Care2X Hospital Information System</em>, 2017.</li>
+</ol>
+</div>
+<div id="phd-alumna" class="section level3">
+<h3>PhD Alumna</h3>
+<ol style="list-style-type: decimal">
+<li>Neema Mduma, <em>Data-driven Approach for Predicting Student Dropout in Secondary Schools</em>, 2020</li>
 </ol>
 </div>
 
@@ -364,7 +330,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -372,6 +338,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
