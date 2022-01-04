@@ -1,4 +1,8 @@
 ---
-title: "Research"
+title: "Research Projects"
 ---
 
+1. Automated Poultry Diseases Diagnostics [(APDD)](https://twiga2.github.io/apdd/){target="_blank"} using Deep Learning
+2. Industry-Academia Partnership Platform for Addressing Sustainable
+Development Challenges in Tanzania, _Higher Education Partnerships in sub-Saharan Africa (HEPSSA) of the Royal Academy of Engineering_
+3. Machine Learning Dataset for Poultry Diseases [Diagnostics](http://doi.org/10.5281/zenodo.4628934){target="_blank"}, _AI4D/ IndabaX Innovation Grant_
