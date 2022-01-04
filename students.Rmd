@@ -17,19 +17,19 @@ title: "Students"
 3. Sadiki Kusyama, "*Development of Information Dissemination Framework for Fisheries Stakeholders in Tanzania*"
 
 ### Masters Alumni
-1. Victor Mero, "*Sanger Sequence Automatic Analysis Tool Development*", 2021
-2. Lilian Mkonyi, "*A Model for Early Identification of Tomato Plant Damages caused by Tuta Absoluta*", 2021
-3. Sophia Sanga, "*Development of an Early Detection Tool for Banana Diseases*", 2021
-4. Hope Mbelwa, "*Image Based Poultry Disease Detection using Deep Convolutional Neural Network*", 2021
-5. Beston Lufyagila, "*Internet of Things Based System for Environmental Conditions Monitoring in Poultry House*", 2021
-6. Asiimwe Patrick, "*A Web-based Inventory, Mapping and Digitization of Ornamental Plants and Flowers*" , 2020
-7. Angelica Kayanda, "*Data Visualization Tool for Student Dropouts in Tanzania*", 2020
-8. Cesilia Mambile, **A Web Based Forum for Reliable Market Linkage between Poultry Farmers and Potential Buyers in Tanzania**, 2019
-9. Geofrey Rweikiza, **Reducing Fragmentation in sharing of Information in E-medical Recording Systems: Case of Open MRS and Care2X**, 2019
-10. Gloriana Monko, **Development of an E-Cultural Heritage Portal for Improving Acquisition and Accessibility of Cultural Heritage Infromation: A Case study of Tanzania**, 2017.
-11. Khalfan Ramadhani, **An Early Warning System for Enhancing Management of Banana Fungal Diseases: Case of Arumeru District, Arusha Region**, 2017.
-12. Siphael Betuel, **Development of a VPN-based Approach for Improving Access to and Sharing of Patient's Records across Health Facilities in Tanzania**, 2017.
-13. Wambura Wambura, **Development of Discharge Letter Module onto Care2X Hospital Information System**, 2017.
+1. Victor Mero, *Sanger Sequence Automatic Analysis Tool Development*, 2021
+2. Lilian Mkonyi, *A Model for Early Identification of Tomato Plant Damages caused by Tuta Absoluta*, 2021
+3. Sophia Sanga, *Development of an Early Detection Tool for Banana Diseases*, 2021
+4. Hope Mbelwa, *Image Based Poultry Disease Detection using Deep Convolutional Neural Network*, 2021
+5. Beston Lufyagila, *Internet of Things Based System for Environmental Conditions Monitoring in Poultry House*, 2021
+6. Asiimwe Patrick, *A Web-based Inventory, Mapping and Digitization of Ornamental Plants and Flowers*, 2020
+7. Angelica Kayanda, *Data Visualization Tool for Student Dropouts in Tanzania*, 2020
+8. Cesilia Mambile, *A Web Based Forum for Reliable Market Linkage between Poultry Farmers and Potential Buyers in Tanzania**, 2019
+9. Geofrey Rweikiza, *Reducing Fragmentation in sharing of Information in E-medical Recording Systems: Case of Open MRS and Care2X*, 2019
+10. Gloriana Monko, *Development of an E-Cultural Heritage Portal for Improving Acquisition and Accessibility of Cultural Heritage Information: A Case study of Tanzania*, 2017.
+11. Khalfan Ramadhani, *An Early Warning System for Enhancing Management of Banana Fungal Diseases: Case of Arumeru District, Arusha Region*, 2017.
+12. Siphael Betuel, *Development of a VPN-based Approach for Improving Access to and Sharing of Patient's Records across Health Facilities in Tanzania*, 2017.
+13. Wambura Wambura, *Development of Discharge Letter Module onto Care2X Hospital Information System*, 2017.
 
 ### PhD Alumna
-1. Neema Mduma, "*Data-driven Approach for Predicting Student Dropout in Secondary Schools*", 2020
+1. Neema Mduma, *Data-driven Approach for Predicting Student Dropout in Secondary Schools*, 2020
